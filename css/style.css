@@ -1,0 +1,29 @@
+h1{
+    font-family:Arial;
+    color:red;
+    background:blue;
+    text-align: center;
+
+}
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    color:greenyellow;
+    background: hotpink;
+   
+    font-size: 25px;
+
+}
+div.one{
+    
+    height: 300px;
+    width: 400px;
+    background: url("webimage.jpg");
+    background-size: cover;
+
+    
+}
+p.two{
+    color: yellow;
+    background: pink;
+
+}
