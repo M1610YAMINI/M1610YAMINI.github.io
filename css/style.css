@@ -14,16 +14,36 @@ p{
 
 }
 div.one{
+
     
     height: 300px;
     width: 400px;
     background: url("webimage.jpg");
     background-size: cover;
-
-    
 }
 p.two{
     color: yellow;
     background: pink;
 
 }
+
+    
+    div.two{
+    height: 300px;
+    width: 400px;
+    
+    background-size: cover;}
+    div.three{
+    
+    
+        height: 300px;
+        width: 400px;
+        
+        background-size: cover;}
+        div.four{
+    
+    
+            height: 300px;
+            width: 400px;
+            
+            background-size: cover;}
